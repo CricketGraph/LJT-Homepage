@@ -32,7 +32,7 @@ X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
   - Advisor: Zifei Shan.
 - **Research Intern, Shanghai AI Lab** (June 2023 – December 2023)
   - Advisor: Prof. Yu Cheng.
-- **Ph.D. Researcher, HKUST NLP Group** (2024 – Present)
+- **Ph.D. Candidate (Doctoral Research), HKUST NLP Group** (2024 – Present)
   - Supervisor: Professor Junxian He.
 
 ## Skills and Research Interests
